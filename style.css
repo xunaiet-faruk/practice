@@ -88,3 +88,25 @@ ul > li{
 margin-left: 25px;
 
 }
+
+.heading-hd{
+
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.div-hd{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon{
+
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
