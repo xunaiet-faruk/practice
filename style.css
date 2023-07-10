@@ -9,7 +9,7 @@
 background-image: url('banner2.png');
 background-repeat: no-repeat;
 padding:350px;
-width:1240px;
+width:1040px;
 text-align: right;
 
 
@@ -74,6 +74,8 @@ gap:60px;
 
 .h1{
 
+    font-size: 50px;
+    font-weight: 800px;
 
 }
 
