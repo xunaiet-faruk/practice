@@ -1,0 +1,22 @@
+.headin-image{
+
+background-image: url('banner2.png');
+padding:350px;
+
+
+}
+
+.heading-div{
+
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 350px;
+    
+    
+}
+
+.heading-h{
+
+    font-size: 45px;
+    color:black;
+}
